@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.dio&apos; to &apos;arcom.dio&apos;&#x0D;&#x0A;- Original project: &apos;Primer programa java&apos;&#x0D;&#x0A;- Original element: &apos;Primer programa java/src/com.dio&apos;&#x0D;&#x0A;- Renamed element: &apos;Primer programa java/src/arcom.dio&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.dio&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.dio" name="arcom.dio" qualified="false" references="true" stamp="1631191280610" textual="false" version="1.0"/>
+</session>

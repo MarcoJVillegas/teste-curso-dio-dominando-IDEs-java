@@ -1,0 +1,5 @@
+package arcom.dio.model;
+
+public class Gato {
+
+}
